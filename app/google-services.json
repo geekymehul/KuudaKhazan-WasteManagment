@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "694276761577-ja7u8tj2lllg2fsh6jfnf2itrfujhejb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developinggeek.kuudakhazan_wastemanagment",
+            "certificate_hash": "b29316b87204b3ee125990feabf6d0b446840308"
+          }
+        },
+        {
           "client_id": "694276761577-vokicsf3vt7k835mfgjr8rjmjhhu4b6a.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
