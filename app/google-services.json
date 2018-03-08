@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "694276761577",
+    "firebase_url": "https://kuudakhazan-wastemanagment.firebaseio.com",
+    "project_id": "kuudakhazan-wastemanagment",
+    "storage_bucket": "kuudakhazan-wastemanagment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694276761577:android:463f074ebea90c10",
+        "android_client_info": {
+          "package_name": "com.developinggeek.kuudakhazan_wastemanagment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694276761577-vokicsf3vt7k835mfgjr8rjmjhhu4b6a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developinggeek.kuudakhazan_wastemanagment",
+            "certificate_hash": "6089fcdec386fd399db10dfa2ae61edf3c4bce8f"
+          }
+        },
+        {
+          "client_id": "694276761577-me42r0lbmn2l42t1be6897p9h8aq8hlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnomLLPkiFgGN7VNU-LyycItKrS1oUB-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694276761577-me42r0lbmn2l42t1be6897p9h8aq8hlu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

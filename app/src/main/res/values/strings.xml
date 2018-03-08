@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Kuuda Khazana</string>
+    <string name="sample_email">hello@gmail.com</string>
+    <string name="tag_line2">Dedicated App for Waste Management</string>
+    <string name="tag_line1">Someone Waste Is Someones Gold</string>
+    <string name="poweredBy">BlueCoders</string>
+    <string name="lbl_forgot_password">Forgot password?</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions</string>
+    <string name="hint_email">Email</string>
+</resources>
