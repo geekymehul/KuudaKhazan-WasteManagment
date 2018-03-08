@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.developinggeek.kuudakhazan_wastemanagment.MainActivity">
+    tools:context="com.developinggeek.kuudakhazan_wastemanagment.Activity.MainActivity">
 
 <android.support.design.widget.FloatingActionButton
     android:layout_width="wrap_content"
@@ -15,5 +15,20 @@
     android:layout_marginRight="30dp"
     android:id="@+id/fab"
     />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="sign out"
+        android:id="@+id/btn_signout"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:text="blog"
+        android:id="@+id/btn_blog"/>
 
 </RelativeLayout>
+
